@@ -1,4 +1,4 @@
-# Cockandbullbot
+# cockandbullbot
 
 This will be a twitter bot based using The Life and Times of Tristram Shandy, Gentleman as a base text
 The public domain files were originally from Project Gutenberg
